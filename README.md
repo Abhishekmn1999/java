@@ -1,4 +1,6 @@
-//code
+
+## 0-1 Triangle Code
+```
 public class b {
     public static void main(String args[]) {
         int n = 5;
@@ -16,4 +18,8 @@ public class b {
         }
     }
 }
+```
+
+### Output
+
 ![image](https://github.com/Abhishekmn1999/java/assets/117501828/4a9628b9-40a3-4ce4-889b-8aea6464674e)
