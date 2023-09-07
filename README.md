@@ -1,8 +1,3 @@
-# java
-JAVA PROGRAMS
-Output of 0-1 Triangle
-
-#Code
 public class b {
     public static void main(String args[]) {
         int n = 5;
@@ -13,7 +8,7 @@ public class b {
                 int sum = i + j;
                 if (sum % 2 == 0) {
                     System.out.print("1 ");
-                } else {
+                } else {        
                     System.out.print("0 ");
                 }
             }
@@ -21,5 +16,4 @@ public class b {
         }
     }
 }
-
 ![image](https://github.com/Abhishekmn1999/java/assets/117501828/4a9628b9-40a3-4ce4-889b-8aea6464674e)
