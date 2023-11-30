@@ -27,19 +27,6 @@ class Horse extends Animal {
     }
 }
 
-// Class 'Chicken' extending the 'Animal' class
-class Chicken extends Animal {
-    // Constructor of the 'Chicken' class
-    Chicken() {
-        System.out.println("Wow, you have created a Chicken!");
-    }
-
-    // Implementation of the 'walk' method defined in the 'Animal' class
-    void walk() {
-        System.out.println("Chicken walks on 2 legs");
-    }
-}
-
 // Main class
 public class Main {
     public static void main(String args[]) {
