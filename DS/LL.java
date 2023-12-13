@@ -112,7 +112,7 @@ class LL {
 
         System.out.println(list.getSize());
         list.addFirst("this");
-        // list.printList();
+        list.printList();
         System.out.println(list.getSize());
     }
 }
