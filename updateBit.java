@@ -12,7 +12,6 @@ public class updateBit {
 
       if (oper == 1) {
          // set
-         
          int newNumber = bitMask | n;
          System.out.println(newNumber);
       } else {
